@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UGameplay", "UGameplay.csproj", "{A97A0D20-D27E-F134-DD82-E4F763969E7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UGameplay.Editor", "UGameplay.Editor.csproj", "{A8DEDF75-D076-D46A-6C51-DEFE1BB9DF0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A97A0D20-D27E-F134-DD82-E4F763969E7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A97A0D20-D27E-F134-DD82-E4F763969E7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A97A0D20-D27E-F134-DD82-E4F763969E7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A97A0D20-D27E-F134-DD82-E4F763969E7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8DEDF75-D076-D46A-6C51-DEFE1BB9DF0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8DEDF75-D076-D46A-6C51-DEFE1BB9DF0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8DEDF75-D076-D46A-6C51-DEFE1BB9DF0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8DEDF75-D076-D46A-6C51-DEFE1BB9DF0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
